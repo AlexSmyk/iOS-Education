@@ -1,1 +1,1 @@
-# My iOS-Education on Udemy and Swiftbook.ru
+# My iOS education on Udemy and Swiftbook.ru
