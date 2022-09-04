@@ -1,1 +1,1 @@
-# My iOS education on Udemy and Swiftbook.ru
+# My iOS education materials from Udemy and Swiftbook.ru
